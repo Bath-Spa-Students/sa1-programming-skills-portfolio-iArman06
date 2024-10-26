@@ -3,7 +3,7 @@
  #Adding the value to the first Variable var1
 var1 = 50
 
- #Adding the value to second first Variable var2
+ #Adding the value to second Variable var2
 var2 = 95
 
 #Adding both the variables values 
