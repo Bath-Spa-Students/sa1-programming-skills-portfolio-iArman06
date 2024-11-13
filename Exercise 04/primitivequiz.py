@@ -7,7 +7,7 @@ answer = input ("What is the capital of France? : ")
 #answer is a Variable which will hold the answer given by the user
 
 #Result
-#Using If else statement to print statements according to answers given by the user
+ #Using If else statement to print statements according to answers given by the user
 if answer == correct_answer:
     print ("The answer is Correct") 
     #This statetment will be printed If the answer given is Paris
