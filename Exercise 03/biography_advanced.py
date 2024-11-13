@@ -18,7 +18,7 @@ user_info = {
     "age" : age} #dictonary
 
 #result
-#we are using the Triple quotes format in f-string for multiline format
+ #we are using the Triple quotes format in f-string for multiline format
 print (f"""Name : {user_info['Name']}       
        Hometown : {user_info['Hometown']}
        Age : {user_info['age']}""")
