@@ -22,7 +22,6 @@ else:
 
 
 #Second Question 
-
 real_answer = "berlin" 
 answer = input ("2. What is the capital of Germany? : ")
 
