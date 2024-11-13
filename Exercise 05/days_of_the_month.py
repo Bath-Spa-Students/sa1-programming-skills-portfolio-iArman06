@@ -14,7 +14,7 @@ days_in_month = days_in_month = {
                                  10: 31, # October
                                  11: 30, # November
                                  12: 31  # December
-} #dictionary 
+}  #dictionary 
 
 
 #Now we will ask the user to input a number between 1 and 12 which represents the month 
