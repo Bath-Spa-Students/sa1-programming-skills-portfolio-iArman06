@@ -4,7 +4,7 @@
 #Dictionary
 days_in_month = days_in_month = {
                                  1: 31,  # January
-                                 2: 28,  # February (doesn't account for Leap year)
+                                 2: 29,  # February (account for Leap year)
                                  3: 31,  # March
                                  4: 30,  # April
                                  5: 31,  # May
